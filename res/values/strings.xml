@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">SMSAuto9</string>
+    <string name="hello_world">Select the type of event who trigging SMS :</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_new_sms">New SMS Time</string>
+    <string name="title_activity_new_sms2">New SMS Localized</string>
+    
+    <string name="button_send">Send</string>
+    <string name="heure">Hour</string>
+    <string name="localisation">Localisation</string>
+    <string name="contenu">Content of message</string>
+    <string name="numero">Phone Number</string>
+    <string name="rep">Contact</string>
+    <string name="ville">City</string>
+    <string name="changeDate">Date</string>
+    <string name="changeTime">Time</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_save">Valid</string>
+
+</resources>
