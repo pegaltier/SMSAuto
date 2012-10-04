@@ -18,5 +18,6 @@ public class NewSMS extends Activity {
         return true;
     }
     //COMMENT PE
+    // IOt's mmee yallaa
     //aaa
 }
