@@ -17,4 +17,5 @@ public class NewSMS extends Activity {
         getMenuInflater().inflate(R.menu.activity_new_sms, menu);
         return true;
     }
+    //COMMENT PE
 }
